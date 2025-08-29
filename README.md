@@ -1,4 +1,4 @@
-# Ink Editor JSON Format
+# Ink Format
 
 **Ink** is a lightweight, storage-optimized JSON format for representing rich text content. It supports multi-line text, inline styles, links, images, lists, and tables, while remaining compact and easy to parse.
 
